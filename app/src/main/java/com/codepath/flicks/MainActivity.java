@@ -1,5 +1,6 @@
 package com.codepath.flicks;
 
+import android.graphics.Color;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
@@ -31,6 +32,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         lvItems = (ListView) findViewById(R.id.lvMovies);
+        // make listview background black
+        lvItems.setBackgroundColor(Color.BLACK);
         movies = new ArrayList<>();
         movieAdapter = new MovieArrayAdaper(this, movies);
         lvItems.setAdapter(movieAdapter);
