@@ -38,7 +38,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-[Flick walkthrough /(first version/)](https://www.dropbox.com/s/vqtkg21922ck5h4/flicks_001.mp4?dl=1)
+[Flick walkthrough (first version)](https://www.dropbox.com/s/vqtkg21922ck5h4/flicks_001.mp4?dl=1)
 
 ## Notes
 
